@@ -30,6 +30,10 @@ open index.html # or double click or drag and drop to browser
 
 Contributions are welcome. Please create an issue or pull request. View the [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
+# Code of Conduct
+
+This project and everyone participating in it is governed by the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 # License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
