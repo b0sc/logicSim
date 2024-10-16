@@ -28,7 +28,9 @@ open index.html # or double click or drag and drop to browser
 
 # Contributing
 
-Contributions are welcome. Please create an issue or pull request. View the [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+Contributions are welcome. Please create an [issue](.github/ISSUE_TEMPLATE/custom.md) or [pull request](./docs/pull_request_template.md) with their templates. View the [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+
+> You can open valid issues as you like following the issue template. PRs are welcome for issues only. Do not open PRs without issues.
 
 # Code of Conduct
 
